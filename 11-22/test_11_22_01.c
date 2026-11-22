@@ -1,4 +1,4 @@
-//P01 阶乘之和（取末六位)
+
 #define _CRT_SECURE_NO_WARNINGS
 #define MOD 1000000
 #include <stdio.h>
