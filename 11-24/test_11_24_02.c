@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+//出现次数统计（排序计数）
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 

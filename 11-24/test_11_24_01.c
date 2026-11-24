@@ -1,4 +1,5 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
+﻿//出现次数统计（桶计数）
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 #define MAX_VAL 100 //数值范围 0 ~ MAX_VAL
